@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Restaurant Services</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="not_registered_click_here_to_register">Not Registered?Click Here to Register</string>
+    <string name="already_registered_click_to_login">Already Registered?Click to login</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="register">REGISTER</string>
+    <string name="home">Home</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+</resources>
